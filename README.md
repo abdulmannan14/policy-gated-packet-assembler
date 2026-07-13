@@ -274,10 +274,9 @@ under contention.
 
 ## Time
 
-<!-- Please fill these in with your own honest start/submit times. -->
-
-- **Started:** _[fill in]_
-- **Submitted:** _[fill in]_
+- **Started:** 2026-07-13, 09:05 (PKT, UTC+05:00)
+- **Submitted:** 2026-07-13, 12:20 (PKT, UTC+05:00)
+- **Total time:** ~3 hours 15 minutes
 - **Straightforward:** module separation, the policy rules, deterministic
   hashing, and the CLI wiring.
 - **Harder than expected:** getting the atomic counter genuinely correct under
