@@ -1,0 +1,12 @@
+# Virtual environments
+.venv/
+venv/
+
+# SQLite counter databases
+*.db
+*.db-wal
+*.db-shm
+
+# Python
+__pycache__/
+*.pyc
